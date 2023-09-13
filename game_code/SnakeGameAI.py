@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun  5 15:36:09 2020
 
-@author: Mbugush
-"""
 import pygame
 from SnakeDQN import DQN
 from random import randint
