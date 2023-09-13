@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun  5 12:01:13 2020
 
-@author: Mbugush
-"""
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 import random
